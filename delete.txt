@@ -1,0 +1,293 @@
+<div class="col-xs-12 pl0">
+						<div class="comments" id="comment">
+							<ol class="commentlist">
+								<li class="comment byuser comment-author-admin even thread-even depth-1" id="comment-3">
+									<div id="div-comment-3" class="comment-body">
+									<div class="comment-author vcard">
+								<img alt='' src='http://0.gravatar.com/avatar/67f76019a656d3bfc628c9e1d46bcd65?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/67f76019a656d3bfc628c9e1d46bcd65?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a href='http://afosnweb.ir' rel='external nofollow' class='url'>admin</a></cite> <span class="says">می‌گه:</span>		</div>
+							
+							<div class="comment-meta commentmetadata"><a href="http://localhost/wordpress/dfgdfg/#comment-3">
+								فوریه 10, 2016 در 2:54 ب.ظ</a>&nbsp;&nbsp;<a class="comment-edit-link" href="http://localhost/wordpress/wp-admin/comment.php?action=editcomment&amp;c=3">(ویرایش)</a>		</div>
+
+							<p>dfgdfgdfg</p>
+
+							<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://localhost/wordpress/dfgdfg/?replytocom=3#respond' onclick='return addComment.moveForm( "div-comment-3", "3", "respond", "137" )' aria-label='پاسخ به admin'>پاسخ دادن</a></div>
+									</div>
+							</li><!-- #comment-## -->
+							<li class="comment byuser comment-author-admin odd alt thread-odd thread-alt depth-1" id="comment-4">
+									<div id="div-comment-4" class="comment-body">
+									<div class="comment-author vcard">
+								<img alt='' src='http://0.gravatar.com/avatar/67f76019a656d3bfc628c9e1d46bcd65?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/67f76019a656d3bfc628c9e1d46bcd65?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a href='http://afosnweb.ir' rel='external nofollow' class='url'>admin</a></cite> <span class="says">می‌گه:</span>		</div>
+							
+							<div class="comment-meta commentmetadata"><a href="http://localhost/wordpress/dfgdfg/#comment-4">
+								فوریه 10, 2016 در 2:54 ب.ظ</a>&nbsp;&nbsp;<a class="comment-edit-link" href="http://localhost/wordpress/wp-admin/comment.php?action=editcomment&amp;c=4">(ویرایش)</a>		</div>
+
+							<p>fhfghfgh fdhfgh</p>
+
+							<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://localhost/wordpress/dfgdfg/?replytocom=4#respond' onclick='return addComment.moveForm( "div-comment-4", "4", "respond", "137" )' aria-label='پاسخ به admin'>پاسخ دادن</a></div>
+									</div>
+							</li><!-- #comment-## -->
+							<li class="comment byuser comment-author-admin bypostauthor even thread-even depth-1 parent" id="comment-5">
+									<div id="div-comment-5" class="comment-body">
+									<div class="comment-author vcard">
+								<img alt='' src='http://0.gravatar.com/avatar/67f76019a656d3bfc628c9e1d46bcd65?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/67f76019a656d3bfc628c9e1d46bcd65?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a href='http://afosnweb.ir' rel='external nofollow' class='url'>admin</a></cite> <span class="says">می‌گه:</span>		</div>
+							
+							<div class="comment-meta commentmetadata"><a href="http://localhost/wordpress/dfgdfg/#comment-5">
+								فوریه 10, 2016 در 2:54 ب.ظ</a>&nbsp;&nbsp;<a class="comment-edit-link" href="http://localhost/wordpress/wp-admin/comment.php?action=editcomment&amp;c=5">(ویرایش)</a>		</div>
+
+							<p>dgfhgdfgh</p>
+
+							<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://localhost/wordpress/dfgdfg/?replytocom=5#respond' onclick='return addComment.moveForm( "div-comment-5", "5", "respond", "137" )' aria-label='پاسخ به admin'>پاسخ دادن</a></div>
+									</div>
+								<ul class="children">
+								<li class="comment byuser comment-author-admin bypostauthor odd alt depth-2" id="comment-6">
+										<div id="div-comment-6" class="comment-body">
+										<div class="comment-author vcard">
+									<img alt='' src='http://0.gravatar.com/avatar/67f76019a656d3bfc628c9e1d46bcd65?s=32&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/67f76019a656d3bfc628c9e1d46bcd65?s=64&amp;d=mm&amp;r=g 2x' class='avatar avatar-32 photo' height='32' width='32' />			<cite class="fn"><a href='http://afosnweb.ir' rel='external nofollow' class='url'>admin</a></cite> <span class="says">می‌گه:</span>		</div>
+								
+								<div class="comment-meta commentmetadata"><a href="http://localhost/wordpress/dfgdfg/#comment-6">
+									فوریه 10, 2016 در 2:54 ب.ظ</a>&nbsp;&nbsp;<a class="comment-edit-link" href="http://localhost/wordpress/wp-admin/comment.php?action=editcomment&amp;c=6">(ویرایش)</a>		</div>
+
+								<p>fgh fgh fg</p>
+
+								<div class="reply"><a rel='nofollow' class='comment-reply-link' href='http://localhost/wordpress/dfgdfg/?replytocom=6#respond' onclick='return addComment.moveForm( "div-comment-6", "6", "respond", "137" )' aria-label='پاسخ به admin'>پاسخ دادن</a></div>
+										</div>
+								</li><!-- #comment-## -->
+								</ul><!-- .children -->
+							</li><!-- #comment-## -->
+							</ol>
+							<div id="respond">
+								<form action="http://localhost/wordpress/wp-comments-post.php" method="post" id="commentform">
+									<div class="form-group">
+										<input name="author" id="author" class="author form-control" type="text" value="نام" onblur="if(this.value=='') this.value='نام';" onfocus="if(this.value=='نام') this.value='';" onkeypress="FKeyPress(this);" onkeydown="FKeyDown(this);" />
+									</div>
+									<div class="form-group">
+										<input name="email" id="email" class="email form-control" type="text" value="ایمیل" onblur="if(this.value=='') this.value='ایمیل';" onfocus="if(this.value=='ایمیل') this.value='';" onkeypress="FKeyPress(this);" onkeydown="FKeyDown(this);" />
+									</div>
+									<textarea name="comment" id="comment" class="form-control" rows="10"></textarea><br>
+									<input name="submit" type="submit" id="submit" class="btn btn-default" value="ثبت نظر" />
+								</form>
+							</div>
+						</div>
+				</div>
+
+
+
+
+<!--<div class="widget">
+							<form role="search" method="get" id="searchform" class="searchform" action="#">
+								<div class="form-group">
+									<div class="input-group">
+										<label class="screen-reader-text" for="s">جستجو برای:</label>
+										<input type="text" class="form-control" value="" name="s" id="s" />
+										<input type="submit" class="btn btn-danger" id="searchsubmit" value="جستجو" />
+									</div>
+								</div>
+							</form>
+						</div>-->
+
+
+
+
+<!--<div class="title">
+							<h3><span class="glyphicon glyphicon-align-right" aria-hidden="true"></span> عنوان</h3>
+						</div>
+						<ul>
+							<li><a href="#">عنوان</a></li>
+							<li><a href="#">عنوان</a></li>
+							<li><a href="#">عنوان</a></li>
+							<li><a href="#">عنوان</a></li>
+							<li><a href="#">عنوان</a></li>
+							<li><a href="#">عنوان</a></li>
+						</ul>-->
+
+
+
+
+
+<!--<span class="glyphicon glyphicon-user" aria-hidden="true"></span> نوسنده -->
+
+
+<!--<span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 55 -->
+
+
+
+
+
+<div class="info">
+                                <?php the_tags( '<p>برچسب: ',' , ','</p>' ); ?>
+								<span class="glyphicon glyphicon-comment" aria-hidden="true"><?php comments_popup_link('نظر %' , '1 نظر' , 'بدون نظر'); ?></span> 
+								<span class="glyphicon glyphicon-Date-of-Release-open" aria-hidden="true"><?php the_time('d M Y'); ?></span> 
+								<span class="glyphicon glyphicon-Date-of-Release-open" aria-hidden="true"><?php echo human_time_diff(get_the_time('U'), current_time('timestamp')) . ' قبل '; ?></span> 
+						</div>
+
+
+
+
+
+
+
+
+
+
+<article class="col-sm-4 col-xs-12 my_article">
+					<div class="col-xs-12 article">
+						<div class="img">
+							<a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/img.jpg" alt="عنوان مطلب" /></a>
+						</div>
+						<div class="info">
+							<h2><a href="#">عنوان مطلب سایت</a></h2>
+							<p>
+								<span class="glyphicon glyphicon-user" aria-hidden="true"></span> نوسنده 
+								<span class="glyphicon glyphicon-comment" aria-hidden="true"></span> 1 
+								<span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 55 
+							</p>
+						</div>
+						<div class="content">
+							<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.</p>
+						</div>
+					</div>
+				</article>
+				<article class="col-sm-4 col-xs-12 my_article">
+					<div class="col-xs-12 article">
+						<div class="img">
+							<a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/img.jpg" alt="عنوان مطلب" /></a>
+						</div>
+						<div class="info">
+							<h2><a href="#">عنوان مطلب سایت</a></h2>
+							<p>
+								<span class="glyphicon glyphicon-user" aria-hidden="true"></span> نوسنده 
+								<span class="glyphicon glyphicon-comment" aria-hidden="true"></span> 1 
+								<span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 55 
+							</p>
+						</div>
+						<div class="content">
+							<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.</p>
+						</div>
+					</div>
+				</article>
+				<article class="col-sm-4 col-xs-12 my_article">
+					<div class="col-xs-12 article">
+						<div class="img">
+							<a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/img.jpg" alt="عنوان مطلب" /></a>
+						</div>
+						<div class="info">
+							<h2><a href="#">عنوان مطلب سایت</a></h2>
+							<p>
+								<span class="glyphicon glyphicon-user" aria-hidden="true"></span> نوسنده 
+								<span class="glyphicon glyphicon-comment" aria-hidden="true"></span> 1 
+								<span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 55 
+							</p>
+						</div>
+						<div class="content">
+							<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.</p>
+						</div>
+					</div>
+				</article>
+				<article class="col-sm-4 col-xs-12 my_article">
+					<div class="col-xs-12 article">
+						<div class="img">
+							<a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/img.jpg" alt="عنوان مطلب" /></a>
+						</div>
+						<div class="info">
+							<h2><a href="#">عنوان مطلب سایت</a></h2>
+							<p>
+								<span class="glyphicon glyphicon-user" aria-hidden="true"></span> نوسنده 
+								<span class="glyphicon glyphicon-comment" aria-hidden="true"></span> 1 
+								<span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 55 
+							</p>
+						</div>
+						<div class="content">
+							<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.</p>
+						</div>
+					</div>
+				</article>
+				<article class="col-sm-4 col-xs-12 my_article">
+					<div class="col-xs-12 article">
+						<div class="img">
+							<a href="#"><img src="<?php echo get_template_directory_uri(); ?>/img/img.jpg" alt="عنوان مطلب" /></a>
+						</div>
+						<div class="info">
+							<h2><a href="#">عنوان مطلب سایت</a></h2>
+							<p>
+								<span class="glyphicon glyphicon-user" aria-hidden="true"></span> نوسنده 
+								<span class="glyphicon glyphicon-comment" aria-hidden="true"></span> 1 
+								<span class="glyphicon glyphicon-eye-open" aria-hidden="true"></span> 55 
+							</p>
+						</div>
+						<div class="content">
+							<p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است. چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد. کتابهای زیادی در شصت و سه درصد گذشته، حال و آینده شناخت فراوان جامعه و متخصصان را می طلبد تا با نرم افزارها شناخت بیشتری را برای طراحان رایانه ای علی الخصوص طراحان خلاقی و فرهنگ پیشرو در زبان فارسی ایجاد کرد.</p>
+						</div>
+					</div>
+				</article>
+
+
+
+
+
+				'<div class="col-lg-12 pagination">
+				<span class="current">1</span>
+				<a href="#">2</a>
+				<a href="#">3</a>
+				<a href="#">4</a>
+				<a href="#">5</a>
+				<a href="#">6</a>
+				</div>'
+
+
+
+
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<span class="navbar-brand hidden-lg hidden-md hidden-sm" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">منوی سایت</span>
+				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav">
+						<li class="active"><a href="#">خانه</a></li>
+						<li><a href="#">درباره ما</a></li>
+						<li><a href="#">تماس با ما</a></li>
+						<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">خدمات ما <span class="caret"></span></a>
+							<ul class="dropdown-menu">
+								<li><a href="#">طراحی وب</a></li>
+								<li><a href="#">طراحی گرافیک</a></li>
+								<li><a href="#">هوش تجاری</a></li>
+							</ul>
+						</li>
+					</ul>
+				</div>
+
+
+
+
+				<div style="margin-bottom:8px;">
+		<span style="width:20%;margin-left:-4px;display: inline-block;"><label for="berand">برند آسانسور</label></span>
+		<span style="width:80%;margin-right:-4px;display: inline-block;">
+			<input type="text" name="berand" id="berand" value="<?php echo $text_berand; ?>" style="width:100%;" />
+		</span>
+	</div>
+	<div style="margin-bottom:8px;">
+		<span style="width:20%;margin-left:-4px;display: inline-block;"><label for="tedad">تعداد (دستگاه)</label></span>
+		<span style="width:80%;margin-right:-4px;display: inline-block;">
+			<input type="text" name="tedad" id="tedad" value="<?php echo $text_tedad; ?>" style="width:100%;" />
+		</span>
+	</div>
+	<div style="margin-bottom:8px;">
+		<span style="width:20%;margin-left:-4px;display: inline-block;"><label for="tavaghof">تعداد توقف</label></span>
+		<span style="width:80%;margin-right:-4px;display: inline-block;">
+			<input type="text" name="tavaghof" id="tavaghof" value="<?php echo $text_tavaghof; ?>" style="width:100%;" />
+		</span>
+	</div>
+	<div style="margin-bottom:8px;">
+		<span style="width:20%;margin-left:-4px;display: inline-block;"><label for="sorat">سرعت</label></span>
+		<span style="width:80%;margin-right:-4px;display: inline-block;">
+			<input type="text" name="sorat" id="sorat" value="<?php echo $text_sorat; ?>" style="width:100%;" />
+		</span>
+	</div>
+	$text_berand = isset( $values['berand'] ) ? esc_attr( $values['berand'][0] ) : '';
+	$text_tedad = isset( $values['tedad'] ) ? esc_attr( $values['tedad'][0] ) : '';
+	$text_tavaghof = isset( $values['tavaghof'] ) ? esc_attr( $values['tavaghof'][0] ) : '';
+	$text_sorat = isset( $values['sorat'] ) ? esc_attr( $values['sorat'][0] ) : '';
